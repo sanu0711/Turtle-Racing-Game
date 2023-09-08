@@ -10,10 +10,7 @@ Turtle Race is a simple Python script that simulates a race between colorful tur
 - [Features](#features)
 - [How to Play](#how-to-play)
 - [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Description
 
@@ -40,10 +37,3 @@ Before running Turtle Race, ensure you have the following:
 - Python 3.x installed on your computer.
 - The `turtle` library, which is included with standard Python installations.
 
-## Installation
-
-1. Clone this GitHub repository to your local machine using:
-
-   ```bash
-   git clone https://github.com/yourusername/turtle-race.git
-   cd turtle-race
